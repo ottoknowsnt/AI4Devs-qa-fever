@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Desarrollador Frontend",
+    "department": "Engineering",
+    "location": "Madrid",
+    "status": "Abierta"
+  },
+  {
+    "id": 2,
+    "name": "Product Manager",
+    "department": "Product",
+    "location": "Barcelona",
+    "status": "Abierta"
+  }
+] 
